@@ -1,19 +1,18 @@
-<center>
-<img height="100"src="https://github.com/EresPvP/EresPvP/blob/main/imagens/WantedSSH.png?raw=true"> 
-<p><a></a> Olá, Me chamo <b>Elias Souza</b>, Sou um Desenvolvedor <b>FrontEnd</b></a></p>
-</center>
 
+<p align="center"><a href="https://anuraghazra.github.io"><img width="25%" alt="WantedSSH" src="https://github.com/EresPvP/EresPvP/blob/main/imagens/WantedSSH.png?raw=true" /></a></p>
+
+<p align="center">Olá, Me chamo <b>Elias Souza</b>, Sou um Desenvolvedor <b>FrontEnd</b></p>
 
 
 **Sobre Min** 😄
 
-- 💼 Faço projetos particulares, Trabalho <b>autônomo</b>.
+- 💼  Faço projetos particulares, Trabalho <b>autônomo</b>.
 
-- 📈 Construido **[WantedSSH](https://painel.wantedssh.xyz)**. Uma Micro Empresa de Internet via SSH.
+- 📈  Construido **[WantedSSH](https://painel.wantedssh.xyz)**. Uma Micro Empresa de Internet via SSH.
 
-- ❤️ Adore programar em JavaScript & PHP, Adoro criar experimentos divertidos em nível de tipo.
+- ❤️  Adore programar em JavaScript & PHP, Adoro criar experimentos divertidos em nível de tipo.
 
-- 💬 Pergunte-me sobre qualquer coisa **[Aqui](https://github.com/erespvp/erespvp/issues)**
+- 💬  Pergunte-me sobre qualquer coisa **[Aqui](https://github.com/erespvp/erespvp/issues)**
 
 **Tecnologias Formada** 📑
 <br><br>
