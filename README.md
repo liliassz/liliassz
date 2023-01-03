@@ -8,7 +8,7 @@
 
 - 💼  Faço projetos particulares, Trabalho <b>autônomo</b>.
 
-- 💼  Construido **[WantedSSH](https://wantedssh.xyz)** Uma Micro Empresa de Internet via SSH.
+- 📈  Construi a **[WantedSSH](https://wantedssh.xyz)** Uma Micro Empresa de Internet via SSH.
 
 - ❤️  Adore programar em JavaScript & PHP, Adoro criar experimentos divertidos em nível de tipo.
 
