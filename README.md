@@ -12,14 +12,14 @@
 
 - ❤️  Adore programar em JavaScript & PHP, Adoro criar experimentos divertidos em nível de tipo.
 
-- 💬  Pergunte-me sobre qualquer coisa **[Aqui](https://github.com/erespvp/erespvp/issues)**
+- 💬  Pergunte-me sobre qualquer coisa **[Aqui](https://github.com/liliassz/liliassz/issues)**
 <br><br>
 
-**Tecnologias Formada** 📑
+**Tecnologias Formliliassz
 <br><br>
-<code><img height="50" alt="Html" src="https://raw.githubusercontent.com/EresPvP/EresPvP/2d26b38f881ba5e9b51969e4cb12776d95c2b91a/imagens/html.png"> </code>
-<code><img height="50" alt="Css" src="https://raw.githubusercontent.com/EresPvP/EresPvP/main/imagens/css.png"></code>
-<code><img height="50" alt="JavaScript" src="https://raw.githubusercontent.com/EresPvP/EresPvP/main/imagens/javascript.png"></code>
+<code><img height="50" alt="Html" src="https://raw.githubusercontent.com/liliassz/liliassz/2d26b38f881ba5e9b51969e4cb12776d95c2b91a/imagens/html.png"> </code>
+<code><img height="50" alt="Css" src="https://raw.githubusercontent.com/liliassz/liliassz/main/imagens/css.png"></code>
+<code><img height="50" alt="JavaScript" src="https://raw.githubusercontent.com/liliassz/liliassz/main/imagens/javascript.png"></code>
 <br><br>
  <i> Obs: Click Sobre as Imagens para ver os Certificados</i>
 <br><br>
@@ -39,7 +39,7 @@
 <p align="center" ><b>Minhas Estatísticas 💻</b></p>
 
 
-| <a href="https://github.com/erespvp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=erespvp&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Eres github Estatísticas" /></a> | <a href="https://github.com/erepvp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erespvp&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/erespvp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Eres github Estatísticas" /></a> | <a href="https://github.com/erepvp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliassz&layout=compact&theme=buefy&hide_border=true" /></a> |
 | -------- | ------------- |
 
 
