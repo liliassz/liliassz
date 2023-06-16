@@ -74,10 +74,10 @@
   <div style="border: 1px solid #333; border-radius: 10px; display: flex; flex-direction: column; align-items: center; padding-bottom: 10px; padding-right: 5px;">
     <div style="display: flex; gap: 5px; padding: 10px; margin-left: 5px;">
       <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true&theme=tokyonight&">
+        <img src="https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true&theme=tokyonight&" width="100px">
       </div>
       <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliassz&layout=donut&theme=tokyonight&langs_count=5&title=Principais%20Linguagens">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliassz&layout=donut&theme=tokyonight&langs_count=5&title=Principais%20Linguagens" width="100px">
       </div>
     </div>
     <div style="display: flex; padding: 10px; padding-top: 5px;">
