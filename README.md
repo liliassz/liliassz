@@ -20,8 +20,9 @@
 | :-------------: | :-------------: |
   
 ![Sequência de GitHub](https://github-readme-streak-stats.herokuapp.com?user=liliassz&theme=tokyonight&dates=05DD3C) |
-<sub style="font-size: 12px;"><b>Observação:</b> As principais linguagens são apenas uma métrica das linguagens presentes em meu código público e não refletem minha experiência ou nível de habilidade.</sub> |
 | :-------------: |
+| <sub style="font-size: 12px;"><b>Observação:</b> As principais linguagens são apenas uma métrica das linguagens presentes em meu código público e não refletem minha experiência ou nível de habilidade.</sub> |
+
 
 
   <br>
