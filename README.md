@@ -1,55 +1,20 @@
-
+<p align="center">
+  <img src="https://scontent-gru1-1.xx.fbcdn.net/v/t39.30808-6/322863345_727061258759785_8052643911285478222_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=-EUIjMSIgTIAX-Rn9ul&_nc_oc=AQmU8iq8E8VFgw8-o65XH2RVQctsIGSg5Upu7YKpjq1LGTiZeqOXFwgo8cOpGPsYtS8&_nc_ht=scontent-gru1-1.xx&oh=00_AfDxBK6qVQbPhQI0x9IkxYy1TG4GlQ_VVNoEyIneWZfmkA&oe=649099F2" alt="Sua Foto" style="border-radius: 50%; width: 150px; height: 150px;">
+</p>
 
 <p align="center">Olá, Me chamo <b>Elias Souza</b>, Sou um Desenvolvedor <b>FrontEnd</b></p>
 
+**Sobre Mim** 👨‍💻
+- 👨‍💻 Engenheiro de Software | <b>FrontEnd</b>
+- 📜 Transformando ideias em realidade por meio do código!
+- 🤓 Estudante contínuo, amante da tecnologia e solucionador de problemas.
+- 💬 Pergunte-me sobre qualquer coisa **[Aqui](https://github.com/liliassz/liliassz/issues)**
+- 👨‍🎓 Busco constantemente conhecimento e aprimoro minhas habilidades para estar sempre atualizado.
+- 🎓 Formado em Engenharia de Software, com ampla experiência no desenvolvimento de aplicações web e mobile.
 
-**Sobre Min** 👨‍💻
-<br><br>
-- 💼  Faço projetos particulares, Trabalho <b>autônomo.</b>
-
-- 📈  Construi a **[WantedSSH](https://wantedssh.xyz)** Uma Micro Empresa de Internet via SSH.
-
-- ❤️  Adore programar em JavaScript & PHP, Adoro criar experimentos divertidos em nível de tipo.
-
-- 💬  Pergunte-me sobre qualquer coisa **[Aqui](https://github.com/liliassz/liliassz/issues)**
-<br><br>
-
-**Tecnologias Formliliassz
-<br><br>
-<code><img height="50" alt="Html" src="https://raw.githubusercontent.com/liliassz/liliassz/2d26b38f881ba5e9b51969e4cb12776d95c2b91a/imagens/html.png"> </code>
-<code><img height="50" alt="Css" src="https://raw.githubusercontent.com/liliassz/liliassz/main/imagens/css.png"></code>
-<code><img height="50" alt="JavaScript" src="https://raw.githubusercontent.com/liliassz/liliassz/main/imagens/javascript.png"></code>
-<br><br>
- <i> Obs: Click Sobre as Imagens para ver os Certificados</i>
-<br><br>
-
-**Tenho Conhecimento Sobre** 📖
-<br><br>
-<code><img height="30" alt="Oracle" src="https://github.com/EresPvP/EresPvP/blob/main/imagens/oracle.png?raw=true"> </code>
-<code><img height="30" alt="Servidor" src="https://github.com/EresPvP/EresPvP/blob/main/imagens/servidor.png?raw=true"></code>
-<code><img height="30" alt="Terminal" src="https://github.com/EresPvP/EresPvP/blob/main/imagens/terminal.png?raw=true"></code>
-<code><img height="30" alt="Linux" src="https://raw.githubusercontent.com/EresPvP/EresPvP/main/imagens/linux.png"></code>
-<code><img height="30" alt="Ubunto" src="https://github.com/EresPvP/EresPvP/blob/main/imagens/ubunto.png?raw=true"> </code>
-<code><img height="30" alt="Java" src="https://raw.githubusercontent.com/EresPvP/EresPvP/main/imagens/java.png"></code>
-
-- <i>Oracle, Servidor, Terminal, Linux, Ubuntu e Java</i>
-<br><br>
+<br>
 
 <p align="center" ><b>Minhas Estatísticas 💻</b></p>
 
-
-|<a href="https://github.com/erespvp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Eres github Estatísticas" /></a> | <a href="https://github.com/erepvp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliassz&layout=compact&theme=buefy&hide_border=true" /></a> |
+|<a href="https://github.com/liliassz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliassz&layout=donut)](https://github.com/liliassz/github-readme-stats) |
 | -------- | ------------- |
-
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true" />
-</picture>
