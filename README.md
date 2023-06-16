@@ -13,20 +13,14 @@
 
   <br>
 
-## 📊 My Github Stats
+## 📊 Minhas estatísticas do GitHub
 
-Desculpe pela confusão anterior. Aqui está a tabela corrigida com todos os elementos na mesma tabela:
+Desculpe pelo equívoco. Aqui está a tabela com os nomes em português:
 
-
-Desculpe pela confusão anterior. Aqui está a tabela corrigida com todos os elementos na mesma tabela:
-
-| ![LiliasSz GitHub stats](https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true&theme=tokyonight&) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliassz&layout=donut&theme=tokyonight) |
+| ![Estatísticas do GitHub de LiliasSz](https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true&theme=tokyonight&) | ![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=liliassz&layout=donut&theme=tokyonight&langs_count=5&title=Principais%20Linguagens) |
 | :-------------: | :-------------: |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=liliassz&theme=tokyonight&dates=05DD3C)](https://git.io/streak-stats) |
-| ---------------- | ---------------- |
+| [![Sequência de GitHub](https://github-readme-streak-stats.herokuapp.com?user=liliassz&theme=tokyonight&dates=05DD3C)](https://git.io/streak-stats) |
+| :--------: |
 
-
-
-
-<b>Observação:</b> Os principais idiomas são apenas uma métrica dos idiomas em que meu código público consiste e não refletem a experiência ou o nível de habilidade.
+<sub><b>Observação:</b> Os principais idiomas são apenas uma métrica dos idiomas em que meu código público consiste e não refletem a experiência ou o nível de habilidade.</sub>
 
