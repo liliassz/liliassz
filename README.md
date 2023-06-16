@@ -1,7 +1,7 @@
 <!-- Altere o valor da cor no atributo "style" -->
-<div style="background-color: linear-gradient(to right, black, white, red); padding: 20px;">
-  
-  <p align="center">Olá, Me chamo <b>Elias Souza</b>, Sou um Desenvolvedor <b>FrontEnd</b></p>
+<div style="background-color: rgba(0, 0, 0, 0.1); padding: 20px;">
+ 
+ <h1 >Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">me chamo Elias Souza</h1>
 
   **Sobre Mim** 👨‍💻
   - 👨‍💻 Engenheiro de Software | <b>FrontEnd</b>
@@ -13,9 +13,11 @@
 
   <br>
 
-  <p align="center" ><b>Minhas Estatísticas 💻</b></p>
 
-  |<a href="https://github.com/liliassz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliassz&layout=donut)](https://github.com/liliassz/github-readme-stats) |
-  | -------- | ------------- |
-  
-</div>
+## 📊 My Github Stats
+
+| ![LiliasSz GitHub stats](https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=liliassz&theme=tokyonight&dates=05DD3C)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliassz&layout=donut&theme=tokyonight)](https://github.com/liliassz/github-readme-stats) |
+| -------- | ------------- | ------------- |
+
+
+<b>Observação:</b> Os principais idiomas são apenas uma métrica dos idiomas em que meu código público consiste e não refletem a experiência ou o nível de habilidade.
