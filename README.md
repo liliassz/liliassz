@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://scontent-gru1-1.xx.fbcdn.net/v/t39.30808-6/322863345_727061258759785_8052643911285478222_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=-EUIjMSIgTIAX-Rn9ul&_nc_oc=AQmU8iq8E8VFgw8-o65XH2RVQctsIGSg5Upu7YKpjq1LGTiZeqOXFwgo8cOpGPsYtS8&_nc_ht=scontent-gru1-1.xx&oh=00_AfDxBK6qVQbPhQI0x9IkxYy1TG4GlQ_VVNoEyIneWZfmkA&oe=649099F2" alt="Sua Foto" width="150" height="150" style="border-radius: 50%;">
-</p>
 
-<p align="center">Olá, Me chamo <b>Elias Souza</b>, Sou um Desenvolvedor <b>FrontEnd</b></p>
+# <p align="center">Olá, Me chamo <b>Elias Souza</b>, Sou um Desenvolvedor <b>FrontEnd</b></p>
 
 **Sobre Mim** 👨‍💻
 - 👨‍💻 Engenheiro de Software | <b>FrontEnd</b>
