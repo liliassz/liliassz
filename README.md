@@ -72,16 +72,16 @@
   <br>
 
   <div style="border: 1px solid #333; border-radius: 10px; display: flex; flex-direction: column; align-items: center; padding-bottom: 10px; padding-right: 5px;">
-    <div style="display: flex; gap: 10px; padding: 10px; margin-left: 5px;">
-      <div style="width: 57%;">
+    <div style="display: flex; gap: 5px; padding: 10px; margin-left: 5px;">
+      <div style="width: 45%;">
         <img src="https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true&theme=tokyonight&">
       </div>
-      <div style="width: 39%;">
+      <div style="width: 45%;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliassz&layout=donut&theme=tokyonight&langs_count=5&title=Principais%20Linguagens">
       </div>
     </div>
     <div style="display: flex; padding: 10px; padding-top: 5px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=liliassz&theme=tokyonight&dates=05DD3C" style="width: 50%;">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=liliassz&theme=tokyonight&dates=05DD3C" style="width: 70%;">
     </div>
       <sub style="font-size: 12px; text-align: center;"><b>Observação:</b> As principais linguagens são apenas uma métrica das linguagens presentes em meu código público e não refletem minha experiência ou nível de habilidade.</sub>
   </div>
