@@ -15,12 +15,12 @@
 
 ## 📊 Minhas estatísticas do GitHub
 
-
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true&theme=tokyonight&hide=contribs&rank_icon=github" width="37%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliassz&layout=donut&theme=tokyonight" width="22%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=liliassz&theme=tokyonight&dates=05DD3C" width="35%">
+</div>
 <br>
-
-![LiliasSz GitHub stats](https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true&theme=tokyonight&hide=contribs&rank_icon=github&hide_rank=true)
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=liliassz&theme=tokyonight&dates=05DD3C)](https://git.io/streak-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliassz&layout=donut&theme=tokyonight) |
-| :--------: | :-------------: | :-------------: |
 
 <sub><b>Observação:</b> Os principais idiomas são apenas uma métrica dos idiomas em que meu código pú1blico consiste e não refletem a experiência ou o nível de habilidade.</sub>
 #
