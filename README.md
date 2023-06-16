@@ -71,19 +71,20 @@
 
   <br>
 
-  <div style="border: 1px solid #333; border-radius: 10px; display: flex; flex-direction: column; align-items: center; padding-bottom: 10px; padding-right: 5px;">
-    <div style="display: flex; gap: 5px; padding: 10px; margin-left: 5px;">
-      <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true&theme=tokyonight&" width="100px">
+  <div style="border: 1px solid #333; border-radius: 10px; display: flex; flex-direction: column; align-items: center; padding-bottom: 20px; padding-top: 10px; max-width: 100%; max-height: 100%;">
+      <div style="display: flex; flex-direction: row; gap: 5px; padding: 5px;">
+        <div>
+          <img src="https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true&theme=tokyonight&" width="164px">
+        </div>
+        <div>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliassz&layout=donut&theme=tokyonight&langs_count=5&title=Principais%20Linguagens" width="110px">
+        </div>
       </div>
-      <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliassz&layout=donut&theme=tokyonight&langs_count=5&title=Principais%20Linguagens" width="100px">
-      </div>
-    </div>
-    <div style="display: flex; padding: 10px; padding-top: 5px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=liliassz&theme=tokyonight&dates=05DD3C" style="width: 70%;">
-    </div>
-      <sub style="font-size: 12px; text-align: center;"><b>Observação:</b> As principais linguagens são apenas uma métrica das linguagens presentes em meu código público e não refletem minha experiência ou nível de habilidade.</sub>
+      <div style="display: flex; align-items: center; flex-direction: column; padding: 10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=liliassz&theme=tokyonight&dates=05DD3C" style="width: 70%;">
+      </div> 
+      <sub style="font-size: 12px; text-align: center"><b>Observação:</b> As principais linguagens são apenas uma métrica das linguagens presentes em meu código público e não refletem minha experiência ou nível de habilidade.</sub>
   </div>
 
 </div>
+                         
