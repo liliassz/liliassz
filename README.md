@@ -17,9 +17,16 @@
 
 Desculpe pela confusão anterior. Aqui está a tabela corrigida com todos os elementos na mesma tabela:
 
+
+Desculpe pela confusão anterior. Aqui está a tabela corrigida com todos os elementos na mesma tabela:
+
 | ![LiliasSz GitHub stats](https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true&theme=tokyonight&) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliassz&layout=donut&theme=tokyonight) |
 | :-------------: | :-------------: |
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=liliassz&theme=tokyonight&dates=05DD3C)](https://git.io/streak-stats) |
+| ---------------- | ---------------- |
+
+
+
 
 <b>Observação:</b> Os principais idiomas são apenas uma métrica dos idiomas em que meu código público consiste e não refletem a experiência ou o nível de habilidade.
 
