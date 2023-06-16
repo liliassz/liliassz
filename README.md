@@ -1,5 +1,4 @@
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="25%" alt="WantedSSH" src="https://github.com/EresPvP/EresPvP/blob/main/imagens/WantedSSH.png?raw=true" /></a></p>
 
 <p align="center">Olá, Me chamo <b>Elias Souza</b>, Sou um Desenvolvedor <b>FrontEnd</b></p>
 
@@ -39,19 +38,18 @@
 <p align="center" ><b>Minhas Estatísticas 💻</b></p>
 
 
-| <a href="https://github.com/erespvp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Eres github Estatísticas" /></a> | <a href="https://github.com/erepvp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliassz&layout=compact&theme=buefy&hide_border=true" /></a> |
+|<a href="https://github.com/erespvp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Eres github Estatísticas" /></a> | <a href="https://github.com/erepvp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliassz&layout=compact&theme=buefy&hide_border=true" /></a> |
 | -------- | ------------- |
 
 
-
-
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lilias_sz/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/100010095367629)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lilias_Sz)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511959394123&text=Olá%20*Elias*%20vim%20pelo%20GitHub%20)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-souza-144598214/)
-
-	
-
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true" />
+</picture>
