@@ -13,11 +13,9 @@
       <li>🎓 Formado em Engenharia de Software, com ampla experiência no desenvolvimento de aplicações web e mobile.</li>
    </ul>
 
-<br>
 <hr>
 
 ## 🚀 Languages & Tools:
-<br>
 
 ### ✒️ Linguagens
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -71,8 +69,6 @@
 
 <hr>
 
-<br>
-
 ## 📊 Minhas estatísticas do GitHub
 
 - <sub style="font-size: 12px;"><b>Observação:</b> As principais linguagens são apenas uma métrica das linguagens presentes em meu código público e não refletem minha experiência ou nível de habilidade.</sub>
@@ -82,7 +78,6 @@
   
 ![Sequência de GitHub](https://github-readme-streak-stats.herokuapp.com?user=liliassz&theme=tokyonight&dates=05DD3C) |
 | :-------------: |
-
 
 <br>
 
