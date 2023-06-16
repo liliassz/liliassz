@@ -16,23 +16,11 @@
 
   <h2 style="font-size: 20px; font-weight: bold;">📊 Minhas estatísticas do GitHub</h2>
 
-  <br>
-
-  <div style="border: 1px solid #333; border-radius: 10px; display: flex; flex-direction: column; align-items: center; padding-bottom: 10px; padding-left: 15px;">
-    <div style="display: flex; gap: 10px; padding: 10px;">
-      <div style="width: 55%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true&theme=tokyonight&" style="width: 164px;">
-      </div>
-      <div style="width: 38%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliassz&layout=donut&theme=tokyonight&langs_count=5&title=Linguagens%20Principais" style="width: 110px;">
-      </div>
-    </div>
-    <div style="display: flex; padding: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=liliassz&theme=tokyonight&dates=05DD3C" style="width: 70%;">
-    </div>
-  </div>
-
-  <br>
+  | ![Estatísticas do GitHub de LiliasSz](https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true&theme=tokyonight&) | ![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=liliassz&layout=donut&theme=tokyonight&langs_count=5&title=Principais%20Linguagens) | ![Sequência de GitHub](https://github-readme-streak-stats.herokuapp.com?user=liliassz&theme=tokyonight&dates=05DD3C) |
+  | :-------------: | :-------------: | :-------------: |
   <sub style="font-size: 12px;"><b>Observação:</b> As principais linguagens são apenas uma métrica das linguagens presentes em meu código público e não refletem minha experiência ou nível de habilidade.</sub>
+
+
+  <br>
 
 </div>
