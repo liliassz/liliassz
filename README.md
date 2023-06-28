@@ -73,12 +73,12 @@
 
 - <sub style="font-size: 12px;"><b>Observação:</b> As principais linguagens são apenas uma métrica das linguagens presentes em meu código público e não refletem minha experiência ou nível de habilidade.</sub>
 
-| ![Estatísticas do GitHub de LiliasSz](https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true&theme=tokyonight&hide=contribs) | ![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=liliassz&layout=donut&theme=tokyonight&langs_count=5&title=Principais%20Linguagens) | 
+| ![Estatísticas do GitHub de LiliasSz](https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true&theme=tokyonight&hide=contribs) | ![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=liliassz&layout=donut&theme=tokyonight&langs_count=5&title=Principais%20Linguagens) |  
 | :-------------: | :-------------: |
   
 ![Sequência de GitHub](https://github-readme-streak-stats.herokuapp.com?user=liliassz&theme=tokyonight&dates=05DD3C) |
 | :-------------: |
 
-<br>
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liliassz)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
