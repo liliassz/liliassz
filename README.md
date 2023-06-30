@@ -73,26 +73,23 @@
 
 - <sub style="font-size: 12px;"><b>Observação:</b> As principais linguagens são apenas uma métrica das linguagens presentes em meu código público e não refletem minha experiência ou nível de habilidade.</sub>
 
-| ![Estatísticas do GitHub de LiliasSz](https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true&theme=tokyonight&hide=contribs) | ![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=liliassz&layout=donut&theme=tokyonight&langs_count=5&title=Principais%20Linguagens) |  
+| ![Estatísticas do GitHub de LiliasSz](https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true&theme=transparent&hide=contribs&hide_border=true) | ![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=liliassz&layout=donut&theme=transparent&langs_count=5&title=Principais%20Linguagens&hide_border=true) |  
 | :-------------: | :-------------: |
   
-![Sequência de GitHub](https://github-readme-streak-stats.herokuapp.com?user=liliassz&theme=tokyonight&dates=05DD3C) |
+![Sequência de GitHub](https://github-readme-streak-stats.herokuapp.com?user=liliassz&theme=tokyonight&dates=05DD3C&theme=transparent&hide_border=true) |
 | :-------------: |
 
-| [![LiliasSz wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liliassz&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |  
+| [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liliassz&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |  
 | :-------------: |
-
-</div>
 
 <p align="center">
-  <a href="https://wakatime.com/@f815edeb-5b97-4d5d-9e59-47404d60a6d9"><img src="https://wakatime.com/badge/user/f815edeb-5b97-4d5d-9e59-47404d60a6d9.svg" alt="Total time coded since Jun 16 2023" />
-  </a>
+  <a href="https://wakatime.com/@f815edeb-5b97-4d5d-9e59-47404d60a6d9"><img src="https://wakatime.com/badge/user/f815edeb-5b97-4d5d-9e59-47404d60a6d9.svg" alt="Total time coded since Jun 16 2023" /> </a>
 </p>
 
-
+<details>
   <p align="center">
     <a href="https://github.com/liliassz">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liliassz&theme=transpareny" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liliassz&theme=transparent" />
     </a>
     <a href="https://github.com/liliassz">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=liliassz&hide_border=true&card_width=338&theme=transparent" />
@@ -100,7 +97,8 @@
     <a href="https://github.com/liliassz">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liliassz&theme=transparent" />
     </a>
-    <a href="https://github.com/liliassz">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=liliassz&theme=transparent&hide_border=true" />
-    </a>
-  </p> 
+  </p>
+</details>
+
+</div>
+
