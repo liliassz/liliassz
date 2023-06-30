@@ -79,8 +79,12 @@
 ![Sequência de GitHub](https://github-readme-streak-stats.herokuapp.com?user=liliassz&theme=tokyonight&dates=05DD3C&theme=transparent&hide_border=true) |
 | :-------------: |
 
+<p align="center">
+
 | [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liliassz&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |  
 | :-------------: |
+</p>
+
 
 <p align="center">
   <a href="https://wakatime.com/@f815edeb-5b97-4d5d-9e59-47404d60a6d9"><img src="https://wakatime.com/badge/user/f815edeb-5b97-4d5d-9e59-47404d60a6d9.svg" alt="Total time coded since Jun 16 2023" /> </a>
@@ -102,3 +106,15 @@
 
 </div>
 
+<details>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liliassz&theme=aura_dark) |  
+| :-------------: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liliassz&theme=aura_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liliassz&theme=aura_dark) |  
+| :-------------: | :-------------: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liliassz&theme=aura_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liliassz&theme=aura_dark&utcOffset=8) |  
+| :-------------: | :-------------: |
+
+</details>
