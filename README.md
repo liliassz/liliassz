@@ -102,7 +102,11 @@
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liliassz&theme=aura_dark) |  
 | :-------------: |
-[![wakatime](https://wakatime.com/badge/user/f815edeb-5b97-4d5d-9e59-47404d60a6d9.svg)](https://wakatime.com/@f815edeb-5b97-4d5d-9e59-47404d60a6d9)
+
+<p align="center">
+    <a href="https://wakatime.com/@liliassz"><img src="https://wakatime.com/badge/user/f815edeb-5b97-4d5d-9e59-47404d60a6d9.svg" alt="Total time coded since Jun 16 2023" /></a>
+</p>
+
 <details>
 <summary style="font-size: 15px; color: #ef9999; font-weight: 900;">Click me to see more</summary>
 <p>Here is some more content that is initially visible.</p>
