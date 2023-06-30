@@ -37,7 +37,7 @@
 <p align="center" style="font-size: 16px; font-weight: bold;"> Idiomas 👨</p>
 
 <ul style="font-size: 15px; list-style-type: disc; padding-left: 20px; color: #b8b8b8; ">
-    <li>🗣🎓 <b style="color: #E9F9E9;">Português</b> | <b>Fluente</b></li>
+    <li>🗣 <b style="color: #E9F9E9;">Português</b> | <b>Fluente</b></li>
     <li>🗣️ <b style="color: #E9F9E9;">English</b> | <b>Intermediario - Avançado</b></li>
     <li>🗣️ <b style="color: #E9F9E9;">Espanhol</b> | <b>Básico</b></li>
 </ul>
@@ -102,7 +102,7 @@
 | :-------------: |
 
 <details>
-<summary style="font-size: 15px; color: #ef9999; font-weight: 900;">Mais Informações</summary>
+<summary style="font-size: 15px; color: #ef9999; font-weight: 900;">More Info</summary>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liliassz&theme=aura_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liliassz&theme=aura_dark) |  
 | :-------------: | :-------------: |
