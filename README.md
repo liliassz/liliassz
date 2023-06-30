@@ -34,12 +34,14 @@
     <li>🎓 Graduated in Software Engineering, with extensive experience in web and mobile application development.</li>
 </ul>
 
-<p align="center" style="font-size: 16px; font-weight: bold;"> Idiomas 👨</p>
+<p align="center" style="font-size: 16px; font-weight: bold;"> Idiomas 🌎</p>
 
 <ul style="font-size: 15px; list-style-type: disc; padding-left: 20px; color: #b8b8b8; ">
-    <li>🗣 <b style="color: #E9F9E9;">Português</b> | <b>Fluente</b></li>
-    <li>🗣️ <b style="color: #E9F9E9;">English</b> | <b>Intermediario - Avançado</b></li>
-    <li>🗣️ <b style="color: #E9F9E9;">Espanhol</b> | <b>Básico</b></li>
+    <li>🏆 <b style="color: #E9F9E9;">Português</b> | <b>Fluente</b>
+    </li>
+    <li>📈 <b style="color: #E9F9E9;">English</b> | <b>Intermediario - Avançado</b>
+    </li>
+    <li>🌱 <b style="color: #E9F9E9;">Espanhol</b> | <b>Básico</b></li>
 </ul>
 
 
@@ -100,9 +102,10 @@
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liliassz&theme=aura_dark) |  
 | :-------------: |
-
+[![wakatime](https://wakatime.com/badge/user/f815edeb-5b97-4d5d-9e59-47404d60a6d9.svg)](https://wakatime.com/@f815edeb-5b97-4d5d-9e59-47404d60a6d9)
 <details>
-<summary style="font-size: 15px; color: #ef9999; font-weight: 900;">More Info</summary>
+<summary style="font-size: 15px; color: #ef9999; font-weight: 900;">Click me to see more</summary>
+<p>Here is some more content that is initially visible.</p>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liliassz&theme=aura_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liliassz&theme=aura_dark) |  
 | :-------------: | :-------------: |
