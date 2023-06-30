@@ -34,6 +34,14 @@
     <li>🎓 Graduated in Software Engineering, with extensive experience in web and mobile application development.</li>
 </ul>
 
+<p align="center" style="font-size: 16px; font-weight: bold;"> Idiomas 👨</p>
+
+<ul style="font-size: 15px; list-style-type: disc; padding-left: 20px; color: #b8b8b8; ">
+    <li>🗣🎓 <b style="color: #E9F9E9;">Português</b> | <b>Fluente</b></li>
+    <li>🗣🎓 <b style="color: #E9F9E9;">English</b> | <b>Intermediario - Avançado</b></li>
+    <li>🗣🎓 <b style="color: #E9F9E9;">Espanhol</b> | <b>Básico</b></li>
+</ul>
+
 
 <hr>
 
@@ -45,8 +53,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/wervlad)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -92,12 +98,11 @@
 <sub style="font-size: 10.5px;"><b>Note:</b> The top languages are just a metric of the languages present in my public code and do not reflect my experience or skill level.</sub>
 </div>
 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liliassz&theme=aura_dark) |  
+| :-------------: |
 
 <details>
 <summary style="font-size: 15px; color: #ef9999; font-weight: 900;">Mais Informações</summary>
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liliassz&theme=aura_dark) |  
-| :-------------: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liliassz&theme=aura_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liliassz&theme=aura_dark) |  
 | :-------------: | :-------------: |
