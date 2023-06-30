@@ -107,6 +107,8 @@
 <summary style="font-size: 15px; color: #ef9999; font-weight: 900;">Click me to see more</summary>
 <p>Here is some more content that is initially visible.</p>
 
+<p align="center">
+
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liliassz&theme=aura_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liliassz&theme=aura_dark) |  
 | :-------------: | :-------------: |
 
@@ -119,5 +121,6 @@
 | [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liliassz&&theme=aura_dark&utcOffset=8&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |  
 | :-------------: |
 
+</p>
 </details>
 
