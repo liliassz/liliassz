@@ -82,5 +82,24 @@
 | [![LiliasSz wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liliassz)](https://github.com/anuraghazra/github-readme-stats) |  
 | :-------------: |
 
+<a href="https://wakatime.com/@f815edeb-5b97-4d5d-9e59-47404d60a6d9"><img src="https://wakatime.com/badge/user/f815edeb-5b97-4d5d-9e59-47404d60a6d9.svg" alt="Total time coded since Jun 16 2023" /> </a>
 
 </div>
+
+
+<details>
+<p align="center">
+  <a href="https://github.com/liliassz">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liliassz&theme=transparent" />
+  </a>
+  <a href="https://github.com/liliassz">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=liliassz&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/liliassz">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liliassz&theme=transparent" />
+  </a>
+  <a href="https://github.com/liliassz">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliassz&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
