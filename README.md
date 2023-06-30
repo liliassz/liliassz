@@ -89,10 +89,10 @@
   </a>
 </p>
 
-<details>
+
   <p align="center">
     <a href="https://github.com/liliassz">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liliassz&theme=transparent" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liliassz&theme=transpareny" />
     </a>
     <a href="https://github.com/liliassz">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=liliassz&hide_border=true&card_width=338&theme=transparent" />
@@ -100,5 +100,7 @@
     <a href="https://github.com/liliassz">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liliassz&theme=transparent" />
     </a>
+    <a href="https://github.com/liliassz">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=liliassz&theme=transparent&hide_border=true" />
+    </a>
   </p>
-</details>
