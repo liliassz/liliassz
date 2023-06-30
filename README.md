@@ -1,30 +1,52 @@
-<div style="background-color: #1f1f1f; padding: 20px; font-family: Arial, sans-serif; color: #fff;">
+<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
-  <h1 style="font-size: 24px; font-weight: bold;">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> me chamo Elias Souza</h1>
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm Elias Souza.<br>
+        Turning ideas into reality through code!<br>
+        Open to collaborating on interesting and innovative projects.<br>
+    </i><br>
+    <a href="https://www.linkedin.com/in/liliassz">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="mailto:elias.souza.es609@gmail.com">
+        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
+    </a>
+    <a href="https://www.kaggle.com/liliassz">
+        <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
+    </a>
+    <a href="https://stepik.org/users/liliassz">
+        <img src="https://img.shields.io/badge/Stepik-blue?style=flat-square&logo=image%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA2ADYANhLVLGJAAAACXBIWXMAAAsTAAALEwEAmpwYAAADNUlEQVRIx8VWPU/rSBS9NsRPyMZGfGQLhDWKiKVoBVIKChAEKamo+QOvfQXFSm5AiJJ2ixVe0RCFKpaslKZZUbwmWCBRGShoKB1LSAEl8WKTs1WsOB/w3ha7V5rCY8/xnTP3nDtEH4QgCHOqqj5IkgSe50FEICLwPA9JkqCq6oMgCHP0b4IxdphKpb73QMeNVCr1nTF2+FPgmUzGFEURn4H3hiiKyGQy5iisif6H5eXlL7Is/9FoNL62Wq14nud5KhaLtLu7SxsbGzQ1NUVPT08EgIiIwjCkt7e3XxcXF3+Zn5//6/n5+X0cLYYsy3FmHMeBiGAYBlzXRRRFiKIIruvi9PQUMzMziZ3IsgzGmPFTtNRqNbTbbQzG2dkZJEn6MboYY4eD4NlsFqZpIggCAEAURfB9H57nwbZtZLPZD88kPnhBEOb6q6VHi2ma6HQ6MXi9Xsfm5mb8TT6fh67r0HUdS0tLI6tLEIQ5UlX1YRQtvcy73S4cx0GhUAARgTGGarUKz/PQbDbRbDbheR5OTk6GfqKq6gMpipIQkGEYMedRFMFxHORyORARNE2DZVkYFe12G4ZhJASpKAqof6JUKsF13QQtvczT6TRs206A3tzc4P7+HmEYAgBc10WpVEokTP1b0nUdURQBAHzfjznXNA22bcfvAMCyLKytrWFrawu+7wMAWq0W9vb2EjTxn6l6ZWWFjo+PaWdnhyYmJuj9/Z0uLi7o4OCArq+vY7GNjXEUhWGIu7s7XF1dJWixbRvpdBpEhEKhgHq9Hu9sJEX9YuE4DuVyOa6gwbAsC5qmgYiQy+XgOE4MPvaQR5VppVJBo9HAy8sLXl9f4XkeqtUqGGNx5o7joNvtAgCCIECtVhtdpuOEtrq6iv39fRwdHWF7eztetL6+nqCl0+nANM3E2oTQxlnFoG3Ytg3P8+D7fgweBAFM0xyyjYRVfGZ209PTqFQqQ+cxjpaPesOQXRMRZmdncX5+PmTX5XJ5iJZRds0NNpwoin73ff9bf8PhOI6KxSLl83kiIrq9vaXLy8uEBkRRpIWFhT8nJyd/e3x8/Ps/a5n/T9MfvLYoijJ0bVEU5YeuLf8A/blSgAQ62zgAAAAASUVORK5CYII=" alt="Stepik">
+    </a>
+    <a href="https://leetcode.com/liliassz">
+        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
+    </a>
+</p>
 
-  <p style="font-size: 16px; font-weight: bold;">Sobre Mim 👨‍💻</p>
-  
-  <ul style="font-size: 15px; list-style-type: disc; padding-left: 20px; color: #b8b8b8; ">
-      <li>👨‍💻 Engenheiro de Software | <b style="color: white;">FrontEnd</b></li>
-      <li>📜 Transformando ideias em realidade por meio do código!</li>
-      <li>🤓 Estudante contínuo, amante da tecnologia e solucionador de problemas.</li>
-      <li>💬 Pergunte-me sobre qualquer coisa <a href="https://github.com/liliassz/liliassz/issues" style="color: #aaa;">Aqui</a></li>
-      <li>👨‍🎓 Busco constantemente conhecimento e aprimoro minhas habilidades para estar sempre atualizado.</li>
-      <li>🎓 Formado em Engenharia de Software, com ampla experiência no desenvolvimento de aplicações web e mobile.</li>
-   </ul>
+<p align="center" style="font-size: 16px; font-weight: bold;">About Me 👨‍💻</p>
+
+<ul style="font-size: 15px; list-style-type: disc; padding-left: 20px; color: #b8b8b8; ">
+    <li>👨‍💻 Software Engineer | <b style="color: white;">FrontEnd</b></li>
+    <li>🤓 Continuous learner, technology enthusiast, and problem solver.</li>
+    <li>💬 Ask me anything <a href="https://github.com/liliassz/liliassz/issues" style="color: #aaa;">Here</a></li>
+    <li>👨‍🎓 I constantly seek knowledge and enhance my skills to stay up-to-date.</li>
+    <li>🎓 Graduated in Software Engineering, with extensive experience in web and mobile application development.</li>
+</ul>
+
 
 <hr>
 
 ## 🚀 Languages & Tools:
 
-### ✒️ Linguagens
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### ✒️ Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/wervlad)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -51,42 +73,26 @@
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-### 💻 Editores/IDE's
+### 💻 Editors/IDE's
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Notpad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
-### 🎛️ Sistemas Operacionais
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🎛️ Operating Systems
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-### 🥅 Outros
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
 <hr>
 
-## 📊 Minhas estatísticas do GitHub & WakaTime
+## 📊 My GitHub & WakaTime Statistics
 
-- <sub style="font-size: 12px;"><b>Observação:</b> As principais linguagens são apenas uma métrica das linguagens presentes em meu código público e não refletem minha experiência ou nível de habilidade.</sub>
-
-| ![Estatísticas do GitHub de LiliasSz](https://github-readme-stats.vercel.app/api?username=liliassz&show_icons=true&theme=transparent&hide=contribs&hide_border=true) | ![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=liliassz&layout=donut&theme=transparent&langs_count=5&title=Principais%20Linguagens&hide_border=true) |  
-| :-------------: | :-------------: |
-  
-![Sequência de GitHub](https://github-readme-streak-stats.herokuapp.com?user=liliassz&theme=tokyonight&dates=05DD3C&theme=transparent&hide_border=true) |
-| :-------------: |
-
-<p align="center">
-
-| [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liliassz&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |  
-| :-------------: |
-  <a href="https://wakatime.com/@f815edeb-5b97-4d5d-9e59-47404d60a6d9"><img src="https://wakatime.com/badge/user/f815edeb-5b97-4d5d-9e59-47404d60a6d9.svg" alt="Total time coded since Jun 16 2023" /> </a>
-</p>
+<sub style="font-size: 10.5px;"><b>Note:</b> The top languages are just a metric of the languages present in my public code and do not reflect my experience or skill level.</sub>
 </div>
+
+
 <details>
+<summary style="font-size: 15px; color: #ef9999; font-weight: 900;">Mais Informações</summary>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liliassz&theme=aura_dark) |  
 | :-------------: |
@@ -100,4 +106,8 @@
 ![Sequência de GitHub](https://github-readme-streak-stats.herokuapp.com?user=liliassz&theme=aura_dark&utcOffset=8) |
 | :-------------: |
 
+| [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liliassz&&theme=aura_dark&utcOffset=8&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |  
+| :-------------: |
+
 </details>
+
