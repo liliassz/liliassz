@@ -1,12 +1,12 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Olá Pessoal <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
-    <i>
-        I'm Elias Souza.<br>
-        Turning ideas into reality through code!<br>
-        Open to collaborating on interesting and innovative projects.<br>
-    </i><br>
+    <b>Bem-vindo à minha página!</b><br><br>
+    <i>Eu sou Elias Souza.<br>
+Tenho 18 anos e sou apaixonado por desenvolvimento de software.<br>
+Moro em São Paulo e atualmente trabalho com desenvolvimento web.<br>
+Estou sempre aberto a colaborar em projetos interessantes e inovadores.<br>
+</i><br>
     <a href="https://www.linkedin.com/in/liliassz">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
@@ -24,30 +24,37 @@
     </a>
 </p>
 
-<p align="center" style="font-size: 16px; font-weight: bold;">About Me 👨‍💻</p>
-
+<p align="center" style="font-size: 16px; font-weight: bold;">Sobre Mim 👨‍💻</p>
 <ul style="font-size: 15px; list-style-type: disc; padding-left: 20px; color: #b8b8b8; ">
-    <li>👨‍💻 Software Engineer | <b style="color: white;">FrontEnd</b></li>
-    <li>🤓 Continuous learner, technology enthusiast, and problem solver.</li>
-    <li>💬 Ask me anything <a href="https://github.com/liliassz/liliassz/issues" style="color: #aaa;">Here</a></li>
-    <li>👨‍🎓 I constantly seek knowledge and enhance my skills to stay up-to-date.</li>
-    <li>🎓 Graduated in Software Engineering, with extensive experience in web and mobile application development.</li>
+    <li>👨‍💻 Engenheiro de Software | <b style="color: white;">FrontEnd</b></li>
+    <li>🤓 Aprendiz contínuo, entusiasta da tecnologia e solucionador de problemas.</li>
+    <li>💬 Pergunte-me qualquer coisa <a href="https://github.com/liliassz/liliassz/issues" style="color: #aaa;">aqui</a></li>
+    <li>👨‍🎓 Busco constantemente conhecimento e aprimoro minhas habilidades para me manter atualizado.</li>
+    <li>🎓 Graduado em Engenharia de Software, com vasta experiência em desenvolvimento de aplicações web e mobile.</li>
 </ul>
-
-<p align="center" style="font-size: 16px; font-weight: bold;"> Idiomas 🌎</p>
-
+<p align="center" style="font-size: 16px; font-weight: bold;">Idiomas 🌎</p>
 <ul style="font-size: 15px; list-style-type: disc; padding-left: 20px; color: #b8b8b8; ">
     <li>🏆 <b style="color: #E9F9E9;">Português</b> | <b>Fluente</b>
     </li>
-    <li>📈 <b style="color: #E9F9E9;">English</b> | <b>Intermediario - Avançado</b>
+    <li>📈 <b style="color: #E9F9E9;">Inglês</b> | <b>Intermediário - Avançado</b>
     </li>
     <li>🌱 <b style="color: #E9F9E9;">Espanhol</b> | <b>Básico</b></li>
 </ul>
 
-
 <hr>
 
-## 🚀 Languages & Tools:
+## 🖇️ Skills:
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&&logoColor=white)]()
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <br>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+<details>
+<summary style="font-size: 15px; color: #ef9999; font-weight: 900;">Clique aqui para ver mais</summary>
 
 ### ✒️ Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -75,6 +82,7 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&&logoColor=white)]()
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -93,23 +101,21 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
+
+</details> <br>
+
 <hr>
 
-## 📊 My GitHub & WakaTime Statistics
+## 📊 Estatísticas do GitHub e WakaTime.
 
-<sub style="font-size: 10.5px;"><b>Note:</b> The top languages are just a metric of the languages present in my public code and do not reflect my experience or skill level.</sub>
+<sub style="font-size: 10.5px;"><b>Obs:</b> As principais linguagens são apenas uma métrica das linguagens presentes em meu código público e não refletem minha experiência ou nível de habilidade..</sub>
 </div>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liliassz&theme=aura_dark) |  
 | :-------------: |
 
-<p align="center">
-    <a href="https://wakatime.com/@liliassz"><img src="https://wakatime.com/badge/user/f815edeb-5b97-4d5d-9e59-47404d60a6d9.svg" alt="Total time coded since Jun 16 2023" /></a>
-</p>
-
 <details>
-<summary style="font-size: 15px; color: #ef9999; font-weight: 900;">Click me to see more</summary>
-<p>Here is some more content that is initially visible.</p>
+<summary style="font-size: 15px; color: #ef9999; font-weight: 900;">Clique aqui para ver mais</summary>
 
 <p align="center">
 
@@ -125,6 +131,14 @@
 | [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liliassz&&theme=aura_dark&utcOffset=8&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |  
 | :-------------: |
 
+<p align="center">
+    <a href="https://wakatime.com/@liliassz"><img src="https://wakatime.com/badge/user/f815edeb-5b97-4d5d-9e59-47404d60a6d9.svg" alt="Total time coded since Jun 16 2023" /></a>
+</p>
+
 </p>
 </details>
+
+
+
+
 
