@@ -27,7 +27,7 @@ Estou sempre aberto a colaborar em projetos interessantes e inovadores.<br>
     <li>🤓 Aprendiz contínuo, entusiasta da tecnologia e solucionador de problemas.</li>
     <li>💬 Pergunte-me qualquer coisa <a href="https://github.com/liliassz/liliassz/issues" style="color: #aaa;">aqui</a></li>
     <li>👨‍🎓 Busco constantemente conhecimento e aprimoro minhas habilidades para me manter atualizado.</li>
-    <li>🎓 Pretendo me formar em Engenharia de Software, com interesse especial no desenvolvimento de aplicações web e mobile.</li>
+    <li>👨‍🎓 Atualmente estou estudando <b>React</b>, e aprimorando minhas habilidades em JavaScript</li>
 </ul>
 <p align="center" style="font-size: 16px; font-weight: bold;">Idiomas 🌎</p>
 <ul style="font-size: 15px; list-style-type: disc; padding-left: 20px; color: #b8b8b8; ">
