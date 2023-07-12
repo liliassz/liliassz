@@ -41,7 +41,7 @@ Estou sempre aberto a colaborar em projetos interessantes e inovadores.<br>
     <li>🌱 <b style="color: #E9F9E9;">Espanhol</b> | <b>Básico</b></li>
 </ul>
 
-<hr>
+<hr> 
 
 ## 🖇️ Skills:
 
@@ -53,7 +53,7 @@ Estou sempre aberto a colaborar em projetos interessantes e inovadores.<br>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<details>
+<details> 
 <summary style="font-size: 15px; color: #ef9999; font-weight: 900;">Clique aqui para ver mais</summary>
 
 ### ✒️ Languages
