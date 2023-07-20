@@ -18,7 +18,7 @@ Estou sempre aberto a colaborar em projetos interessantes e inovadores.<br>
     </a>
    <a href="https://wakatime.com/@f815edeb-5b97-4d5d-9e59-47404d60a6d9">
         <img src="https://wakatime.com/badge/user/f815edeb-5b97-4d5d-9e59-47404d60a6d9.svg" alt="Total time coded since Jun 16 2023" />
-   </a>
+   </a> 
 </p>
 
 <p align="center" style="font-size: 16px; font-weight: bold;">Sobre Mim 👨‍💻</p>
