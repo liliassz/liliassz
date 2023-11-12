@@ -3,7 +3,7 @@
 <p align="center">
     <b>Bem-vindo à minha página!</b><br><br>
     <i>Eu sou Elias Souza.<br>
-Tenho 18 anos e sou apaixonado por desenvolvimento de sistema.<br>
+Tenho 19 anos e sou apaixonado por desenvolvimento de sistema.<br>
 Moro em São Paulo e atualmente trabalho com desenvolvimento web.<br>
 Estou sempre aberto a colaborar em projetos interessantes e inovadores.<br>
 </i><br>
