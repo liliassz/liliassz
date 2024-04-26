@@ -111,14 +111,14 @@ Estou sempre aberto a colaborar em projetos interessantes e inovadores.<br>
 
 <p align="center">
 
+![Sequência de GitHub](https://github-readme-streak-stats.herokuapp.com?user=liliassz&theme=aura_dark&utcOffset=8) |
+| :-------------: |
+
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liliassz&theme=aura_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liliassz&theme=aura_dark) |  
 | :-------------: | :-------------: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liliassz&theme=aura_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liliassz&theme=aura_dark&utcOffset=8) |  
 | :-------------: | :-------------: |
-
-![Sequência de GitHub](https://github-readme-streak-stats.herokuapp.com?user=liliassz&theme=aura_dark&utcOffset=8) |
-| :-------------: |
 
 | [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liliassz&&theme=aura_dark&utcOffset=8&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |  
 | :-------------: |
